@@ -2,6 +2,7 @@
 title: 稀奇古怪的中国经济
 date: 2026-07-04 09:39:00
 lang: zh
+duration: 100min
 description: 这是一篇文章
 ---
 
